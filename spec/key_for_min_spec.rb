@@ -61,3 +61,5 @@ describe "smallest hash value" do
   end
 
 end
+
+def key_for_min_value
